@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin: auto;
+  width: 300px;
+}
+.list {
+  margin: 3re;
 }
 
 .App-logo {
@@ -35,4 +40,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.fetch {
+  background-color: grey;
+  color: white;
 }
